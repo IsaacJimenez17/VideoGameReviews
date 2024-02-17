@@ -1,0 +1,13 @@
+# Metrics cops
+Metrics/BlockLength:
+  Enabled: false
+Metrics/CyclomaticComplexity:
+  Enabled: false
+Metrics/MethodLength:
+  Enabled: false
+Metrics/PerceivedComplexity:
+  Enabled: false
+
+# Style cops
+Style/Documentation:
+  Enabled: false
