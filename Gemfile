@@ -20,6 +20,9 @@ group :development, :test do
 end
 
 group :development do
+  gem 'database_cleaner-active_record'
+  gem 'fabrication'
+  gem 'faker'
   gem 'rack-mini-profiler'
   gem 'rubocop'
   gem 'web-console'
